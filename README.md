@@ -12,8 +12,9 @@ A collection of research related things.
 
 ### Guidance
 
-* [How to write a great research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf) - By Simon. Peyton Jones
-* [Research 101 Paper Writing with LaTeX](https://filebox.ece.vt.edu/~jbhuang/slides/Research%20101%20-%20Paper%20Writing%20with%20LaTeX.pdf) - By Jia-Bin Huang.
+* [How to write a great research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf) - Simon Peyton Jones
+* [Research 101 Paper Writing with LaTeX](https://filebox.ece.vt.edu/~jbhuang/slides/Research%20101%20-%20Paper%20Writing%20with%20LaTeX.pdf) - Jia-Bin Huang
+* [How to write the introduction for a research paper](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk) - Kate Saenko
 
 ### Useful tools
 
