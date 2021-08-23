@@ -11,7 +11,7 @@ A collection of research related things.
 
 ## Research ideas
 
-* [A Systematic Approach to Generation of New Ideas for PhD Research in Computing](http://home.etf.rs/~vm/papers/A%20Systematic%20Approach.pdf) - A systematic framework for searching new research ideas
+* [A Systematic Approach to Generation of New Ideas for PhD Research in Computing](http://home.etf.rs/~vm/papers/A%20Systematic%20Approach.pdf) - A systematic framework for searching new research ideas.
 * [How to come up with research ideas](https://twitter.com/jbhuang0604/status/1423499757591400448) - Tips about finding research ideas by Jia-Bin Huang.
 
 ## Paper writing
