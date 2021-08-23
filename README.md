@@ -4,7 +4,7 @@ A collection of research related things.
 
 ## Table of Contents
 
-* [Research ideas]($research-ideas)
+* [Research ideas](#research-ideas)
 * [Paper writing](#paper-writing)
   * [Guidance](#guidance)
   * [Useful tools](#useful-tools)
