@@ -26,4 +26,5 @@ A collection of research related things.
 
 * [Figure Generator](https://github.com/Mira-13/figure-gen) - A tool to help you create and analyse figures for your paper.
 * [arxiv_latex_cleaner](https://github.com/google-research/arxiv-latex-cleaner) - This tool allows you to easily clean the LaTeX code of your paper to submit to arXiv.
+* [Online BibTex Tidy](https://flamingtempura.github.io/bibtex-tidy/) - An online tool to format BibTex file.
 * [Overleaf](https://www.overleaf.com/) - An online collaborative LaTeX editor.
